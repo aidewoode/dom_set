@@ -20,6 +20,6 @@
   "dependencies": {
     "array-from": "^2.1.1",
     "is-array": "^1.0.1",
-    "iselement": "^1.1.4"
+    "iselement": "aidewoode/iselement"
   }
 }
